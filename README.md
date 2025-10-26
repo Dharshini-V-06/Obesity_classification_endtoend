@@ -27,6 +27,8 @@ To build and compare multiple machine learning models that classify individuals 
 **Total Records:** 2,111
 **Total Features:** 17
 **Target Variable:** `NObeyesdad` (renamed to `Obesity_Level`)
+**Dataset link:** [Obesity dataset](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster)
+
 
 ### 📑 Feature Description
 
